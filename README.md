@@ -4,3 +4,9 @@
 * University：Soochow University
 * Student ID：08170135
 * Department：Big Data Management
+
+# Homework 1
+* [What do you think of cloud computing?]()
+
+# Homework 2
+* [Build a Website using Amazon EC2 with LAMP]()
