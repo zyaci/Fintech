@@ -9,4 +9,4 @@
 * [What do you think of cloud computing?](https://github.com/zyaci/Fintech/tree/main/HW1)
 
 # Homework 2
-* [Build a Website using Amazon EC2 with LAMP]()
+* [Build a Website using Amazon EC2 with LAMP](https://github.com/zyaci/Fintech/tree/main/HW2)
