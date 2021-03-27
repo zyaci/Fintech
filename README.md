@@ -11,6 +11,7 @@
 * Course plan：[授課計劃表](http://doc.sys.scu.edu.tw/teachplanHtml/1092/1092BDM21301.html)
 
 # Lesson
+
 Week1
 * [Cloud Computing and FinTech](https://docs.google.com/presentation/d/e/2PACX-1vQQ4-146uvQCZn9VjZKTZM2P_svSrkrzvVN2dlKmXVK3IlqYWTTmBfaG1unOBZ65gOuVyac4c__RIj2/pub?start=false&loop=false&delayms=3000&fbclid=IwAR3B47fq5aXUh_oa6KUf2rF3MyEMeNgh7AU6a_uF2i1gYdL40TOSx06EHtM&slide=id.gbde736d55e_0_107)
 
