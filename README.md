@@ -27,6 +27,9 @@ Week4
 Week5
 * [AWS IAM & S3](https://drive.google.com/file/d/1zTAF-32yebhsIAqjfyM30cjMKl9lvbf-/view)
 
+Week6
+* [API Gateway and AWS Lambda](https://drive.google.com/file/d/1-AsnJmAldi_-gPnxdQcyBifScMmR_IBk/view)
+
 # Homework
 HW 1
 * [What do you think of cloud computing?](https://github.com/zyaci/Fintech/tree/main/HW1)
