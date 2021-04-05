@@ -35,7 +35,7 @@ HW 2
 * [Build a Website using Amazon EC2 with LAMP](https://youtu.be/KUzMuf6NqfM)
 
 HW3
-* [Build a Website using Amazon S3(Versioning) and AWS Amplify]()
+* [Build a Website using Amazon S3(Versioning) and AWS Amplify](https://youtu.be/g8PVSPg7LTE)
 
 HW4
 * Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda
