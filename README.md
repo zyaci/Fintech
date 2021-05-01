@@ -30,6 +30,12 @@ Week5
 Week6
 * [API Gateway and AWS Lambda](https://drive.google.com/file/d/1-AsnJmAldi_-gPnxdQcyBifScMmR_IBk/view)
 
+Week7
+* 4/5停課
+
+Week8
+* [AWS RDS](https://drive.google.com/file/d/1-Tt21ovueEePMO75VcPnuZADbrIcL4jH/view)
+
 # Homework
 HW 1
 * [What do you think of cloud computing?](https://github.com/zyaci/Fintech/tree/main/HW1)
@@ -44,7 +50,7 @@ HW4
 * [Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda](https://youtu.be/vqxqQuF-IvA)
 
 HW5
-* Create a Database using Amazon RDS or Amazon DynamoDB
+* [Create a Database using Amazon RDS or Amazon DynamoDB](https://youtu.be/JhK4Vv5_1dU)
 
 HW6
 * Create a Docker Container or Build your own Project Services
