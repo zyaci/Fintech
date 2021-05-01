@@ -36,6 +36,9 @@ Week7
 Week8
 * [AWS RDS](https://drive.google.com/file/d/1-Tt21ovueEePMO75VcPnuZADbrIcL4jH/view)
 
+Week9
+* [Docker](https://www.notion.so/Docker-5cc2ffdbebd44dc1ab46ab1dfc31ebeb)
+
 # Homework
 HW 1
 * [What do you think of cloud computing?](https://github.com/zyaci/Fintech/tree/main/HW1)
